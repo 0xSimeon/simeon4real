@@ -30,8 +30,6 @@ I'm from Akwa Ibom state but I live with my family in Port harcourt.  I'm a Comp
 -->
 
 <hr>
-Here, you will find some projects I've worked on. You can also browse all the projects I've found interesting by looking at what I've [starred](simeon4real). You can read about my projects and find more context for many of the repositories hosted here by searching my [personal blog](https://mikecodes.net). 
-
 ### 🌱 I’m currently learning
 Intermediate - Advanced Javascript and VueJS. 
 
@@ -57,7 +55,7 @@ Open Source web development projects (**Css**, **Javascript**, and **Vue**)
 
 <hr>
 
-### 🚧 I build with...
+<!--### 🚧 I build with... -->
 
 
 
