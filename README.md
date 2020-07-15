@@ -45,7 +45,7 @@ Open Source web development projects (**Css**, **Javascript**, and **Vue**)
 ### 📢 How to reach me
 <p align="center">
   <a href="https://twitter.com/TechviberNG">
-    <img src="./badges/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/simeon4real/simeon4real/master/badges/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
   </a>  
 
   <a href="https://www.linkedin.com/in/simeonudoh ">
