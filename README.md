@@ -30,7 +30,9 @@ I'm from Akwa Ibom state but I live with my family in Port harcourt.  I'm a Comp
 -->
 
 <hr>
+
 ### 🌱 I’m currently learning
+
 Intermediate - Advanced Javascript and VueJS. 
 
 ### 👯 I’m looking to collaborate on: 
