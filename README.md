@@ -6,7 +6,7 @@
 I'm from Akwa Ibom state but I live with my family in Port harcourt.  I'm a Computer Science student at Akwa-Ibom State University, currently self-learning web development. 
 #### 😄  Pronouns:
 <a href="#">
-    <img src="./badges/pronouns.svg" alt="Pronouns" style="vertical-align:top; margin:1px">
+    <img src="https://raw.githubusercontent.com/simeon4real/simeon4real/master/badges/pronouns.svg" alt="Pronouns" style="vertical-align:top; margin:1px">
   </a>
 
 <hr> 
@@ -49,15 +49,15 @@ Open Source web development projects (**Css**, **Javascript**, and **Vue**)
   </a>  
 
   <a href="https://www.linkedin.com/in/simeonudoh ">
-    <img src="./badges/linkedin.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/simeon4real/simeon4real/master/badges/linkedin.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
   </a>
 
   <a href="https://wa.me/23481469533 ">
-    <img src="./badges/whatsapp.svg" alt="Whatsapp" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/simeon4real/simeon4real/master/badges/whatsapp.svg" alt="Whatsapp" style="vertical-align:top; margin:4px">
   </a>
 
   <a href="https://t.me/Simeon4real ">
-    <img src="./badges/telegram.svg" alt="Telegram" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/simeon4real/simeon4real/master/badges/telegram.svg" alt="Telegram" style="vertical-align:top; margin:4px">
   </a>
 
 
@@ -68,35 +68,35 @@ Open Source web development projects (**Css**, **Javascript**, and **Vue**)
 ### 🚧 I build with... ⛑
 <p align="center">
   <a href="#">
-    <img src="./badges/vscode.svg" alt="Visual Studio Code" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/simeon4real/simeon4real/master/badges/vscode.svg" alt="Visual Studio Code" style="vertical-align:top; margin:4px">
   </a>  
 
   <a href="#">
-    <img src="./badges/bash.svg" alt="Bash Terminal" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/simeon4real/simeon4real/master/badges/bash.svg" alt="Bash Terminal" style="vertical-align:top; margin:4px">
   </a>
 
   <a href="#">
-    <img src="./badges/javascript.svg" alt="Javascript" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/simeon4real/simeon4real/master/badges/javascript.svg" alt="Javascript" style="vertical-align:top; margin:4px">
   </a>
 
   <a href="# ">
-    <img src="./badges/vue.svg" alt="Vue JS" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/simeon4real/simeon4real/master/badges/vue.svg" alt="Vue JS" style="vertical-align:top; margin:4px">
   </a>
 
   <a href="# ">
-    <img src="./badges/html.svg" alt="HTML5" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/simeon4real/simeon4real/master/badges/html.svg" alt="HTML5" style="vertical-align:top; margin:4px">
   </a>
 
   <a href="# ">
-    <img src="./badges/chrome.svg" alt="Chrome browser" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/simeon4real/simeon4real/master/badges/chrome.svg" alt="Chrome browser" style="vertical-align:top; margin:4px">
   </a>
 
   <a href="# ">
-    <img src="./badges/firefox.svg" alt="Firefox" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/simeon4real/simeon4real/master/badges/firefox.svg" alt="Firefox" style="vertical-align:top; margin:4px">
   </a>
 
   <a href="# ">
-    <img src="./badges/npm.svg" alt="NPM package manager" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/simeon4real/simeon4real/master/badges/npm.svg" alt="NPM package manager" style="vertical-align:top; margin:4px">
   </a>
 
 
