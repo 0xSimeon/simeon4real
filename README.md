@@ -5,8 +5,8 @@
 ### A bit about me...
 I'm from Akwa Ibom state but I live with my family in Port harcourt.  I'm a Computer Science student at Akwa-Ibom State University, currently self-learning web development. 
 #### 😄  Pronouns:
-<a href="https://twitter.com/TechviberNG">
-    <img src="./badges/pronouns.svg" alt="Twitter" style="vertical-align:top; margin:1px">
+<a href="#">
+    <img src="./badges/pronouns.svg" alt="Pronouns" style="vertical-align:top; margin:1px">
   </a>
 
 <hr> 
@@ -65,7 +65,7 @@ Open Source web development projects (**Css**, **Javascript**, and **Vue**)
 
 <hr>
 
-### 🚧 I build with...
+### 🚧 I build with... ⛑
 <p align="center">
   <a href="#">
     <img src="./badges/vscode.svg" alt="Visual Studio Code" style="vertical-align:top; margin:4px">
