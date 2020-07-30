@@ -18,7 +18,9 @@ I'm from Akwa Ibom state but I live with my family in Port harcourt.  I'm a Comp
 - Movies (Series) 📺 
 
 ### 💬 Ask me about 
- CSS, Javascript and Vue. 
+ + CSS
+ + Javascript
+ + Vue. 
 
 <!--
 **simeon4real/simeon4real** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -36,7 +38,8 @@ I'm from Akwa Ibom state but I live with my family in Port harcourt.  I'm a Comp
 
 ### 🌱 I’m currently learning
 
-Intermediate - Advanced Javascript and VueJS. 
++ Intermediate-Advanced Javascript 
++ VueJS. 
 
 ### 👯 I’m looking to collaborate on: 
 Open Source web development projects (**Css**, **Javascript**, and **Vue**) 
@@ -101,8 +104,3 @@ Open Source web development projects (**Css**, **Javascript**, and **Vue**)
 
 
 </p>
-
-
-
-[![Github stats by Anurag](https://github-readme-stats.vercel.app/api?username=simeon4real&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
-
