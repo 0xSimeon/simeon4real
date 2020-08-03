@@ -4,12 +4,6 @@
 
 ### A bit about me...
 I'm from Akwa Ibom state but I live with my family in Port harcourt.  I'm a Computer Science student at Akwa-Ibom State University, currently self-learning web development. 
-#### 😄  Pronouns:
-<a href="#">
-    <img src="https://raw.githubusercontent.com/simeon4real/simeon4real/master/badges/pronouns.svg" alt="Pronouns" style="vertical-align:top; margin:1px">
-  </a>
-
-<hr> 
 
 ### ⚡  Interests
 - Making the web accessible 🌎 
